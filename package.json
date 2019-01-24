@@ -15,7 +15,7 @@
         "dateformat": "*",
         "base58-native": "*",
         "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
-        "cryptoforknote-util": "git://github.com/MoneroOcean/node-cryptoforknote-util.git"
+        "cryptoforknote-util": "git://github.com/forknote/node-cryptonote-util.git"
     },
     "engines": {
         "node": ">=4.0.0"
