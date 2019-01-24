@@ -1,6 +1,6 @@
 {
-    "coin": "niobiocash",
-    "symbol": "NBR",
+    "coin": "imkoin",
+    "symbol": "IMKO",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 240,
     
@@ -23,7 +23,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "WALLET_POOL_SERVER",
+        "poolAddress": "NCkjgd8xJx9KTsuWubF61gdpEZJXQPbo9WYVCTwb5oQ6d8b4zLS8BgdY8s1RGv1QgEP3sBVEv5YTo1H6X9QcYCnL2P2iQdR",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -109,21 +109,21 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "YOUR_PASSWORD"
+        "password": "Tref1311"
     },
 
     "daemon": {
-        "host": "127.0.0.1",
-        "port": 8315
+        "host": "0.0.0.0",
+        "port": 8313
     },
 
     "wallet": {
-        "host": "127.0.0.1",
+        "host": "0.0.0.0",
         "port": 8314
     },
 
     "redis": {
-        "host": "127.0.0.1",
+        "host": "0.0.0.0",
         "port": 6379
     },
 
