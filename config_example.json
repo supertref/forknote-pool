@@ -6,7 +6,7 @@
     
     "cnAlgorithm": "cryptonight_heavy",
     "cnVariant": 3,
-    "cnBlobType": 0,
+    "cnBlobType": 2,
 
     "logging": {
         "files": {
